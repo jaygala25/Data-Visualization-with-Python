@@ -8,8 +8,8 @@ The repository contains various data visualization plots, plotted using python v
 
 ## Additional
 1. Datasets used:
-  1. Canada.xlsx: Number of immigrants in Canada from different countries of the world from 1980 to 2013.
-  2. Data_Science_Topics_Survey.csv: Survey conducted to gauge an audience interest in different data science topics, namely: Big Data, Data Analysis, Machine Learning, etc. The participants had three options for each topic: Interested, Somewhat interested, and Not interested.
-  3. automobile.xlsx: Features affecting price of a car such as engine-type, horsepower, wheel-base, body-style, etc.
+  Canada.xlsx: Number of immigrants in Canada from different countries of the world from 1980 to 2013.
+  Data_Science_Topics_Survey.csv: Survey conducted to gauge an audience interest in different data science topics, namely: Big Data, Data Analysis, Machine Learning, etc. The participants had three options for each topic: Interested, Somewhat interested, and Not interested.
+  automobile.xlsx: Features affecting price of a car such as engine-type, horsepower, wheel-base, body-style, etc.
   
 2. There is a pdf file called "Outputs of Codes" attached for simplicity.
